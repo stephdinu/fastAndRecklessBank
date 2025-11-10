@@ -8,8 +8,9 @@
  (3) Withdraw money
 
  However, there's a little twist, (otherwise known as a "bug"): 
- You get a new account number every time you initiate a transaction :D
+ You get a new account number every time you initiate a transaction. Isn't that just swell?
 
  PSA: We are still working on getting transfers and the ability to view transaction history up-and-running.
 
 P.S. There are some other technical details that we won't mention here, but are happy to clarify over the phone ;)
+

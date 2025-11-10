@@ -14,3 +14,12 @@
 
 P.S. There are some other technical details that we won't mention here, but are happy to clarify over the phone ;)
 
+## How to build
+
+1. Navigate to `frontend`
+2. Run `npm install` in the terminal
+3. Run `npm start`
+4. Build and run the backend in you IDE of choice
+5. Browse to `localhost:3000/`
+
+
